@@ -16,7 +16,7 @@ A real-time 3D graphics rendering project built with **C++** and **OpenGL**. Thi
 
 ```text
 first-opengl-project/
-├── resources/            # Textures, 3D models, and media assets
+├── resources/            # Textures, 3D models, media assets and a demo file of what to expect when running main.cpp
 ├── CMakeLists.txt        # CMake build configuration
 ├── main.cpp              # Main application entry point & render loop
 ├── model_demo.cpp        # Demo scene for 3D model loading
